@@ -3,7 +3,7 @@
 ###
 
 <br clear="both">
-<h3 align="left">Most used languages and technologies.</h3>
+<h3 align="center">Most used languages and technologies.</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 </div>
 
 ###
-
+<h3 align="center">Where to find me?.</h3>
 <div align="center">
   <a href="https://www.instagram.com/kevcastelo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
