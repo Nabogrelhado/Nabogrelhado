@@ -24,6 +24,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVwZXVqNXVsemxlN3Nyc3Q2OXBhbmY5eHYxdnRiYXNhNmtoazQ0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif"  />
 
 ###
@@ -41,14 +43,6 @@
   <a href="www.linkedin.com/in/kevyn-gabriel-castelo-branco-1903931aa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Nabogrelhado/count.svg?"  />
 </div>
 
 ###
