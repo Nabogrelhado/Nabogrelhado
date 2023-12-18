@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nabogrelhado&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nabogrelhado&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="200" alt="stats graph"  />
 </div>
 
 ###
@@ -24,7 +24,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVwZXVqNXVsemxlN3Nyc3Q2OXBhbmY5eHYxdnRiYXNhNmtoazQ0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif"  />
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVwZXVqNXVsemxlN3Nyc3Q2OXBhbmY5eHYxdnRiYXNhNmtoazQ0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif"  />
 
 ###
 
@@ -47,6 +47,8 @@
 
 <br clear="both">
 
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Nabogrelhado/count.svg?"  />
+</div>
 
 ###
