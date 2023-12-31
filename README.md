@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/kevyn-gabriel-castelo-branco-1903931aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kevyn-gabriel-castelo-branco-1903931aa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/1903931aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1903931aa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23082940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23082940" height="30" width="40" /></a>
 <a href="https://instagram.com/kevcastelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevcastelo" height="30" width="40" /></a>
-<a href="https://discord.gg/nabogrelhado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nabogrelhado" height="30" width="40" /></a>
+<a href="https://discord.gg/@nabogrelhado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@nabogrelhado" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
