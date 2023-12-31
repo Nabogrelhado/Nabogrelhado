@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **hints for better coding in Python for Data Science**
 
-- 👨‍💻 All of my projects are available at [here at Github 😁](here at Github 😁)
+- 👨‍💻 All of my projects are available at here at Github 😁
 
 - 💬 Ask me about **Python, Matplotlib, Seaborn, Pandas**
 
