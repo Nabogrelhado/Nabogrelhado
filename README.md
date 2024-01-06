@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **building a awesome portifolio with focus on Data Analysis and Visualization**
 
-- 🌱 I’m currently learning **Python, C#, Django, .NET Core, Pytorch, SQL, SQL Server**
+- 🌱 I’m currently learning **Python, Tensorflow, Streamlit, C#, .NET Core, Pytorch, SQL, SQL Server**
 
 - 👯 I’m looking to collaborate on **IA/ML, Data Visualization, Data Analysis projects**
 
