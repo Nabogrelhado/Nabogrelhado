@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kevyn Castelo Branco</h1>
-<h3 align="center">I'm a biomedic scientist in love with data science and technology, I'm currently on a post-grad course in Data Science Applied to Healthcare.</h3>
+<h3 align="center">I'm a biomedic scientist in love with data science and technology, I have a postgraduate degree in Communication and Marketing, currently on a post-grad course in Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabogrelhado&label=Profile%20views&color=0e75b6&style=flat" alt="nabogrelhado" /> </p>
 
 - 🔭 I’m currently working on **building a awesome portifolio with focus on Data Analysis and Visualization**
 
-- 🌱 I’m currently learning **Python, Tensorflow, Streamlit, C#, .NET Core, Pytorch, SQL, SQL Server**
+- 🌱 I’m currently learning **Python, Tensorflow, Streamlit, SQL, Scikit Learn**
 
 - 👯 I’m looking to collaborate on **IA/ML, Data Visualization, Data Analysis projects**
 
